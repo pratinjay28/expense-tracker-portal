@@ -143,16 +143,6 @@ Uses **SwingWorker** to:
 
 ---
 
-## Screenshots (Optional)
-
-You can add images here when ready:
-
-```
-![Main Screen](images/mainframe.png)
-![Add Transaction](images/add_dialog.png)
-```
-
----
 
 ## Contributing
 
